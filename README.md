@@ -1,6 +1,6 @@
-[과제 제출용 테스트 Repository]
+# 과제 제출용 테스트 Repository
 
-# 과정명
+[과정명]
 
 SW 형상 관리
 
